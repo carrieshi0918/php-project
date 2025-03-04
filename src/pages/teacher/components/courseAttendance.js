@@ -1,4 +1,4 @@
-import React from "react";-
+import React from "react";
 import { connect } from "react-redux";
 import { TableContainer, Table, TableHead, TableBody, TableCell, Paper, TableRow } from "@material-ui/core";
 
