@@ -4,7 +4,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
-import axios from "axios";0
+import axios from "axios";
 
 // axios.defaults.baseURL = "http://localhost:5000/api";
 // axios.defaults.baseURL = "https://3b9db978-2d33-4055-92cd-c4d24c7411a9.mock.pstmn.io";
