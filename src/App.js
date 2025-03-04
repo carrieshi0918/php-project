@@ -1,5 +1,5 @@
 import { ThemeProvider } from '@material-ui/core';
-import React, { Component } from 'react';
+import React, { Component } from 'react';.
 import { Switch, Route } from "react-router-dom";
 import LoginApp from "./pages/login/LoginApp";
 import StudentApp from "./pages/student/StudentApp";
