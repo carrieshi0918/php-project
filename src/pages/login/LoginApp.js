@@ -1,4 +1,4 @@
-import React, { Component } from 'react';5
+import React, { Component } from 'react';
 import Signup from "../../containers/signup";
 import axios from "../../axiosInstance";
 import {
