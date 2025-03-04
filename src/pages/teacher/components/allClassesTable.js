@@ -1,4 +1,4 @@
-import React, { useState } from "react";-
+import React, { useState } from "react";
 import { connect } from "react-redux";
 import { TableContainer, Table, TableHead, TableBody, TableCell, Paper, TableRow, Button, TextField, IconButton, TableFooter } from "@material-ui/core";
 import { Edit as EditIcon, Add as AddIcon } from "@material-ui/icons"
