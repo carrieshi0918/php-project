@@ -1,4 +1,4 @@
-import React, { Component } from "react";-
+import React, { Component } from "react";
 import { Grid, Select, MenuItem, Typography, Button, TableContainer, TableRow, Table, TableHead, TableBody, TableCell, Paper, TextField } from "@material-ui/core";
 import { CloudUpload as CloudUploadIcon } from "@material-ui/icons";
 import ClassInfo from "../../components/classInfo";
