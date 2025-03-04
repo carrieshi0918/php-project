@@ -1,4 +1,4 @@
-import { Grid, Paper, ThemeProvider, Typography, withStyles, Fab } from '@material-ui/core';
+import { Grid, Paper, ThemeProvider, Typography, withStyles, Fab } from '@material-ui/core';;
 import { Add as AddIcon } from "@material-ui/icons"
 import React, { Component } from 'react';
 import AddCourseDialog from "./components/AddCourseDialog"
