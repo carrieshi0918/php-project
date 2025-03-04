@@ -1,4 +1,4 @@
-import React, { Component } from "react";-
+import React, { Component } from "react";
 import { Grid, Typography, TableContainer, Table, TableHead, TableBody, TableCell, Paper } from "@material-ui/core";
 import CourseInfo from "../../components/courseInfo"
 import CourseAttendance from "./components/courseAttendance";
