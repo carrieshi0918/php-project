@@ -12,7 +12,7 @@ _Backend repo: [link](https://github.com/pratikg1999/attendance-system-backend)_
 * Go to `localhost:3000` on browser to start using the app
 
 ## Screenshots
-**Login screen**
+**Login screen
 
 <img src="screenshots/login.png" width="600" height="500"/>
 
