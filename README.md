@@ -1,6 +1,6 @@
-# Student MIS system
+# Student Attendance system
 
-Frontend for Student MIS system for student/teacher enrollment, course registration, classes and attendance management.
+Frontend for Student Attendance system for student/teacher enrollment, course registration, classes and attendance management.
 
 _Backend repo: [link](https://github.com/pratikg1999/attendance-system-backend)_
 
