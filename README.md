@@ -1,6 +1,6 @@
-# Student Attendance system
+# Student Attendance Management System
 
-Frontend for Student Attendance system for student/teacher enrollment, course registration, classes and attendance management.
+Frontend for Student Attendance Management system for student/teacher enrollment, course registration, classes and attendance management.
 
 _Backend repo: [link](https://github.com/pratikg1999/attendance-system-backend)_
 
